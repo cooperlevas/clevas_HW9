@@ -1,5 +1,3 @@
-# clevas_HW9
-
 # 📊 Survey Form Project: clevas_HW9
 
 ****
